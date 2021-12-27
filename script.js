@@ -1,0 +1,1 @@
+document.budy.innerHTML = <h1>Hello from JavaScript</h1>
